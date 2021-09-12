@@ -2,7 +2,7 @@
 ![Banner](__product/product-listing.png)
 > [GmodStore Product Page](https://www.gmodstore.com/market/view/tcb-premium-fg-printers)  
 Sales: 1,172  | Price: 4.99 USD  
-Added: 14 Apr 2015, 09:04 
+Added: 14 Apr 2015, 09:04  
 Updated: 3 Nov 2016, 23:07
 
 FG Printers is an advanced replacement for the default DarkRP Printers with a list of other addons matching the same design.

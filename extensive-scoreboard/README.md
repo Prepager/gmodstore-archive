@@ -1,8 +1,8 @@
 # Extensive Scoreboard - With Workshop support (1.0.1)
 ![Banner](__product/product-listing.png)
-> [GmodStore Product Page](https://www.gmodstore.com/market/view/tcb-premium-extensive-scoreboard)
-Sales: 144  | Price: 4.99 USD
-Added: 23 Feb 2016, 02:22
+> [GmodStore Product Page](https://www.gmodstore.com/market/view/tcb-premium-extensive-scoreboard)  
+Sales: 144  | Price: 4.99 USD  
+Added: 23 Feb 2016, 02:22  
 Updated: 23 Feb 2016, 15:31
 
 Extensive Scoreboard is a replacement scoreboard for the default DarkRP scoreboard. This scoreboard comes with additional features such as Friends and Workshop collection.

@@ -2,7 +2,7 @@
 ![Banner](__product/product-listing.png)
 > [GmodStore Product Page](https://www.gmodstore.com/market/view/tcb-premium-rust-hud)  
 Sales: 653  | Price: 4.99 USD  
-Added: 28 Aug 2015, 06:37
+Added: 28 Aug 2015, 06:37  
 Updated: 28 Aug 2015, 00:02
 
 Rust HUD is a clean and simple rust inspired replacement for the default DarkRP HUD.
