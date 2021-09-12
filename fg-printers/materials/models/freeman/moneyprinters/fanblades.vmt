@@ -1,0 +1,24 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/freeman/moneyprinters/fanblades_diffuse"	
+                "$bumpmap" "models/freeman/moneyprinters/fanblades_norm"
+                  "$phongexponenttexture" "models/freeman/moneyprinters/fanblades_norm"
+	"$halflambert" "0"
+	"$phong" "1"
+	"$phongboost" "0.7"
+	"$phongexponent" "3"
+	"$phongtint" "[0 0 0]"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges" "[2.0 0.5 0.05]"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "3"
+	"$rimlightboost" "0.65"
+
+	"$ambientocclusion" "1"
+	"$diffuseexp" "1"
+
+	
+                "$selfillum" "1"
+
+}

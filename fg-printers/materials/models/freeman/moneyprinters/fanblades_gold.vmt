@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/freeman/moneyprinters/fanblades_diffuse"	
+                "$bumpmap" "models/freeman/moneyprinters/fanblades_norm"
+                 "$envmap" "env_cubemap" 
+	"$envmaptint" "[1 0.85 0]"
+
+	"$normalmapalphaenvmapmask" "1"
+
+	
+                "$selfillum" "1"
+
+}
